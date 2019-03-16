@@ -18,7 +18,6 @@ public class Solution {
         Set<? extends Animal> allAnimals = getAllAnimals((Solution.class.getProtectionDomain().getCodeSource().getLocation().getPath() +
                 Solution.class.getPackage().getName().replaceAll("[.]", "/") + "/data").substring(1));
         System.out.println(allAnimals);
-        System.out.println("Line");
     }
 
     public static Set<? extends Animal> getAllAnimals(String pathToAnimals) {
