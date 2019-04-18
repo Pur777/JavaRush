@@ -14,5 +14,7 @@
     <orderEntry type="library" name="powermock-core-1.4.6" level="project" />
     <orderEntry type="library" name="jsoup-1.9.2-sources" level="project" />
     <orderEntry type="library" name="javax.mail-api-1.5.6" level="project" />
+    <orderEntry type="library" name="jackson-annotations-2.6.1" level="project" />
+    <orderEntry type="library" name="jaxb-api-2.4.0-b180830.0359" level="project" />
   </component>
 </module>
